@@ -8,8 +8,8 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "courseData": "wget -q -O - https://downloads.yugabyte.com/get_clients.sh | sh",
-        "code": "export PATH=$PATH:yugabyte-2.1.1.0/bin"
+        "courseData": "download-client.sh",
+        "code": "setup-environment.sh"
       }
     ]
   },
