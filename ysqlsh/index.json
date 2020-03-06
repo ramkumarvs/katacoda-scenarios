@@ -4,15 +4,16 @@
   "difficulty": "Beginner",
   "time": "1 minute",
   "details": {
-    "steps": [],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
+    "steps": [
+      "title": "Step 1",
+      "text": "step1.md",
+      "courseData": "wget -q -O - https://downloads.yugabyte.com/get_clients.sh | sh",
+      "code": "export PATH=$PATH:yugabyte-2.1.1.0/bin"
+    ]
   },
   "environment": {
+    "hideintro": true,
+    "hidefinish": true,
     "uilayout": "terminal"
   },
   "backend": {
