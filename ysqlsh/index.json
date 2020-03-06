@@ -8,8 +8,7 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "courseData": "download-client.sh",
-        "code": "setup-environment.sh"
+        "courseData": "download-client.sh"
       }
     ]
   },
