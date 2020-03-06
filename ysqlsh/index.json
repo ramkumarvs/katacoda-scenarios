@@ -1,0 +1,21 @@
+{
+  "title": "YugabyteDB SQL shell",
+  "description": "YugabyteDB SQL shell",
+  "difficulty": "Beginner",
+  "time": "1 minute",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
