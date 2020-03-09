@@ -16,7 +16,7 @@
   "environment": {
     "hideintro": true,
     "hidefinish": true,
-    "uilayout": "panel"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
     "imageid": "ubuntu"
