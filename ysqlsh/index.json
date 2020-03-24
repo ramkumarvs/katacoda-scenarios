@@ -8,7 +8,7 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "courseData": "pull-image.sh"
+        "courseData": "pull-image.sh",
         "code": "run-shell.sh"
       }
     ]
