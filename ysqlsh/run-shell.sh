@@ -1,1 +1,1 @@
-docker run -it yugabytedb/yugabyte bash
+docker run -it yugabytedb/yugabyte-client bash

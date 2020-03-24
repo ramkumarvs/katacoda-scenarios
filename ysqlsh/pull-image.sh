@@ -1,1 +1,1 @@
-docker pull yugabytedb/yugabyte:latest
+docker pull yugabytedb/yugabyte-client:latest
